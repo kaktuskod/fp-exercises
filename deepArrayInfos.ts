@@ -1,0 +1,1 @@
+const myDeepArray: Array<number> | Array<number> | Array<Array<number>> | Array<Array<Array<number>>> = [1, [[2], 3], [4], 5, [6, 42, [[86], [[12]], 1337]], 1];
